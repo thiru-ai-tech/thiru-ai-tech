@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.png.jpg" width="100%" alt="Futuristic AI and technology banner" />
+Thiruselvan_%20Neon%20AI%20Data%20Science%20Future.png
 
 <br/>
 
