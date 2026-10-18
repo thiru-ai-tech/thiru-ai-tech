@@ -13,7 +13,7 @@
 
 <img src="https://github.com/thiru-ai-tech.png?size=180" width="120" alt="Thiruselvan's GitHub profile avatar" />
 
-# THIRUSELVAN
+# THIRUSELVAN E
 
 ### AI & Data Science Student
 
@@ -33,7 +33,7 @@
 
 ## 01 / About
 
-I'm **Thiruselvan**, a B.Tech student specializing in **Artificial Intelligence and Data Science**. I'm building my skills in programming, machine learning, and software development through learning and project work.
+I'm **Thiruselvan E**, a B.Tech student specializing in **Artificial Intelligence and Data Science**. I'm building my skills in programming, machine learning, and software development through learning and project work.
 
 - **Career goal:** AI Engineering and Software Development
 - **Technical interests:** Artificial Intelligence, Machine Learning, and Deep Learning
@@ -77,7 +77,7 @@ A team project. Visit the repository to explore the code and available project d
 
 [![View Team-005 repository](https://img.shields.io/badge/VIEW_REPOSITORY-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiru-ai-tech/Team-005)
 
-### 🩺 AI-Sridhar — CarePlus
+### 🩺 CarePlus
 
 A project included in my development work. The direct repository URL has not been added yet.
 
