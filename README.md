@@ -1,213 +1,240 @@
- 
+
 <div align="center">
 
-<!-- Hero Banner -->
-<img
-  src="https://github.com/thiru-ai-tech.png"
-  width="150"
-  alt="Thiruselvan's GitHub avatar"
-  style="border-radius: 50%;"
-/>
+<!-- Upload your banner to this repository as assets/profile-banner.png -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Building+my+future+in+Artificial+Intelligence;Exploring+Machine+Learning+%26+Deep+Learning;Learning+Python+and+developing+projects;Japanese+Language+Learner+%7C+JLPT+N4+Achieved" alt="Animated introduction"/>
+<img src="./assets/profile-banner.png" width="100%" alt="Futuristic AI and technology banner" />
+
+<br/>
+
+# THIRUSELVAN
+
+### B.Tech · Artificial Intelligence & Data Science
+
+**Aspiring AI Engineer · Machine Learning · Software Development**
 
 <p>
-  <a href="https://github.com/thiru-ai-tech"><img src="https://img.shields.io/badge/GitHub-thiru--ai--tech-181717?style=for-the-badge&logo=github" alt="GitHub profile"/></a>
-  <a href="https://www.linkedin.com/in/thiruselvan-e-512797374"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"/></a>
-  <a href="mailto:thiruselvan12102006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/thiru-ai-tech"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/thiruselvan-e-512797374"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:thiruselvan12102006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-**Curious mind. Continuous learning. Building with technology.**
+*Turning curiosity into code, ideas into projects, and learning into progress.*
 
 </div>
 
 ---
 
-## `01` / About Me
+## `01` — ABOUT ME
 
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated developer working at a computer"/>
+I'm **Thiruselvan**, a B.Tech student specializing in **Artificial Intelligence and Data Science**. I'm developing my skills in programming, machine learning, and software development while exploring how AI can solve practical problems.
 
-Hello! I'm **Thiruselvan**, a B.Tech student specializing in **Artificial Intelligence and Data Science**.
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-I'm building my foundation in programming, machine learning, and software development while exploring how AI can solve real-world problems.
+**CURRENT FOCUS**
 
-- 🎓 **Currently:** B.Tech — Artificial Intelligence and Data Science
-- 🤖 **Career goal:** AI Engineering and Software Development
-- 🐍 **Programming:** Python
-- 🧠 **Exploring:** Machine Learning and Deep Learning
-- 🇯🇵 **Japanese:** JLPT N4 achieved; currently studying N3
-- 🏆 **Experience:** Hackathon participation and competition wins
-- 🌱 **Mindset:** Learn, build, improve, and repeat
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Python and software development
 
-<br clear="right"/>
+    </td>
+    <td width="50%" valign="top">
+
+**MY JOURNEY**
+
+- B.Tech — AI & Data Science
+- Japanese: JLPT N4 achieved; studying N3
+- Hackathon and prompt-engineering competition wins
+- Learn · Build · Improve · Repeat
+
+    </td>
+  </tr>
+</table>
 
 ```python
 class Thiruselvan:
-    def __init__(self):
-        self.role = "AI & Data Science Student"
-        self.goals = [
-            "Become an AI Engineer",
-            "Build useful software",
-            "Improve problem-solving skills",
-            "Continue learning Japanese",
-        ]
-        self.current_focus = [
-            "Python",
-            "Machine Learning",
-            "Deep Learning",
-        ]
+    role = "AI & Data Science Student"
+    career_goal = "AI Engineering and Software Development"
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Deep Learning",
+        "Japanese Language",
+    ]
+    japanese = "JLPT N4 achieved; studying N3"
 
     def mindset(self):
-        return "Always learning. Always building."
+        return "Learn. Build. Improve. Repeat."
 ```
 
 ---
 
-## `02` / Tech Stack
+## `02` — TECH STACK
 
-### Languages & Development
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-</p>
-
-### Data Science & Machine Learning
+**Programming & Developer Tools**
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python"/>
+  <img src="https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=F97316" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-0B1220?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8" alt="Visual Studio Code"/>
 </p>
 
-*My focus is on strengthening these skills through practical exercises, experimentation, and projects.*
+**Data Science & AI Libraries**
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-0B1220?style=for-the-badge&logo=numpy&logoColor=38BDF8" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-0B1220?style=for-the-badge&logo=pandas&logoColor=A78BFA" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0B1220?style=for-the-badge&logo=plotly&logoColor=38BDF8" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/scikit--learn-0B1220?style=for-the-badge&logo=scikitlearn&logoColor=FBBF24" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/PyTorch-0B1220?style=for-the-badge&logo=pytorch&logoColor=FB7185" alt="PyTorch"/>
+</p>
+
+*I continue to strengthen these skills through learning, experimentation, and project work.*
 
 ---
 
-## `03` / Featured Projects
+## `03` — FEATURED PROJECTS
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
-### 🌿 CanopyAI
+### CanopyAI — Team-005
 
 **Team project**
 
-A project developed by our team under the name **Team-005**.
+Explore the team's CanopyAI work, source code, and available project documentation.
 
-- Explore the project repository
-- Review its source code and available documentation
-- Learn about the solution and its implementation
+<a href="https://github.com/thiru-ai-tech/Team-005"><img src="https://img.shields.io/badge/OPEN_REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white" alt="Open Team-005 repository"/></a>
 
-<p>
-  <a href="https://github.com/thiru-ai-tech/Team-005">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="View CanopyAI repository"/>
-  </a>
-</p>
+    </td>
+    <td width="50%" valign="top">
 
-</td>
-<td width="50%" valign="top">
-
-### 🩺 AI-Sridhar (CarePlus)
+### AI-Sridhar — CarePlus
 
 **Project**
 
-A project listed among my development work.
+Explore my GitHub profile to find the CarePlus project and its available implementation details.
 
-- Explore the source code
-- Review the project structure
-- Learn more from the repository documentation
+<a href="https://github.com/thiru-ai-tech"><img src="https://img.shields.io/badge/EXPLORE_GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub profile"/></a>
 
-<p>
-  <a href="https://github.com/thiru-ai-tech">
-    <img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github" alt="Explore GitHub projects"/>
-  </a>
-</p>
-
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
-> More projects and improvements will be added as I continue learning and building.
+> Add the exact CarePlus repository URL when available so visitors can open that project directly.
 
 ---
 
-## `04` / Achievements & Recognition
+## `04` — ACHIEVEMENTS & RECOGNITION
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+
+### 🏆
+
+**Hackathon Winner**
+
+CMS College  
+Namakkal
+
+    </td>
+    <td width="34%" align="center" valign="top">
+
+### 🥇
+
+**1st Prize**
+
+Prompt Engineering Event  
+Tiruppur Women's College
+
+    </td>
+    <td width="33%" align="center" valign="top">
+
+### 🏆
+
+**Hackathon Winner**
+
+Kangeyam College
+
+    </td>
+  </tr>
+</table>
+
+These experiences motivate me to keep developing my problem-solving skills, creativity, teamwork, and ability to build technology-driven solutions.
+
+---
+
+## `05` — JAPANESE LANGUAGE JOURNEY
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+
+**JLPT N4**  
+`ACHIEVED`
+
+    </td>
+    <td width="50%" align="center">
+
+**JLPT N3**  
+`CURRENTLY STUDYING`
+
+    </td>
+  </tr>
+</table>
+
+日本語を勉強しています。
+
+I'm continuing to improve my Japanese language skills and working toward N3, while exploring future opportunities that connect technology and Japan.
+
+---
+
+## `06` — GITHUB OVERVIEW
 
 <div align="center">
 
-| Achievement | Recognition |
-|:--|:--:|
-| 🏆 Hackathon — CMS College, Namakkal | **Winner** |
-| 🥇 Prompt Engineering Event — Tiruppur Women's College | **1st Prize** |
-| 🏆 Hackathon — Kangeyam College | **Winner** |
+<a href="https://github.com/thiru-ai-tech"><img height="165" src="https://github-readme-stats.vercel.app/api?username=thiru-ai-tech&show_icons=true&hide_border=true&bg_color=0B1220&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github" alt="GitHub profile statistics"/></a>
+<a href="https://github.com/thiru-ai-tech"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiru-ai-tech&layout=compact&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=CBD5E1" alt="Most used programming languages"/></a>
+
+<a href="https://github.com/thiru-ai-tech"><img src="https://streak-stats.demolab.com?user=thiru-ai-tech&hide_border=true&background=0B1220&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/></a>
 
 </div>
 
-These experiences motivate me to keep improving my problem-solving, creativity, teamwork, and ability to build technology-driven solutions.
+<sub>Statistics are provided by external services and may occasionally be unavailable or delayed.</sub>
 
 ---
 
-## `05` / Japanese Language Journey
+## `07` — INTERESTS
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/JLPT-N4_Achieved-DC2626?style=for-the-badge" alt="JLPT N4 achieved"/>
-<img src="https://img.shields.io/badge/Current_Goal-N3_Study-2563EB?style=for-the-badge" alt="Currently studying N3"/>
-
-**日本語を勉強しています！**
-
-</div>
-
-Alongside technology, I'm learning Japanese and working toward the **JLPT N3** level.
-
-My goal is to continue improving my language skills and explore future opportunities that connect technology with Japan.
+<p>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-111827?style=for-the-badge&logo=probot&logoColor=22D3EE" alt="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=22D3EE" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-111827?style=for-the-badge&logo=pytorch&logoColor=A78BFA" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/Japanese_Language-111827?style=for-the-badge&logo=duolingo&logoColor=22D3EE" alt="Japanese language"/>
+</p>
 
 ---
 
-## `06` / GitHub Activity
+## `08` — LET'S CONNECT
+
+I'm interested in connecting with fellow students, developers, AI enthusiasts, and people who enjoy learning and building useful technology.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thiru-ai-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub profile statistics"/>
+<a href="https://github.com/thiru-ai-tech"><img src="https://img.shields.io/badge/GitHub-@thiru--ai--tech-111827?style=for-the-badge&logo=github" alt="GitHub profile"/></a>
+<a href="https://www.linkedin.com/in/thiruselvan-e-512797374"><img src="https://img.shields.io/badge/LinkedIn-Thiruselvan-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="mailto:thiruselvan12102006@gmail.com"><img src="https://img.shields.io/badge/Email-thiruselvan12102006%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiru-ai-tech&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages"/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=thiru-ai-tech&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak"/>
+### `LEARN / BUILD / IMPROVE`
 
-</div>
-
-*Statistics are generated by third-party services and may take time to update.*
-
----
-
-## `07` / Let's Connect
-
-I'm interested in connecting with students, developers, AI enthusiasts, and people who enjoy learning and building new things.
-
-<div align="center">
-
-<a href="https://github.com/thiru-ai-tech"><img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-
-<a href="https://www.linkedin.com/in/thiruselvan-e-512797374"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-
-<a href="mailto:thiruselvan12102006@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-</div>
-
----
-
-<div align="center">
-
-### *“Great things are built one step at a time.”*
-
-**Thanks for visiting my profile!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:164E63,100:0F172A&height=110&section=footer" width="100%" alt="Decorative footer banner"/>
+*“Great things are built one step at a time.”*
 
 </div>
