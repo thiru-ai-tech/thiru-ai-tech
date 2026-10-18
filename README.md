@@ -1,6 +1,6 @@
 <div align="center">
 
-Thiruselvan_%20Neon%20AI%20Data%20Science%20Future.png
+<img src="./assets/profile-banner.png" width="100%" alt="Thiruselvan — AI and Data Science Student" />
 
 <br/>
 
