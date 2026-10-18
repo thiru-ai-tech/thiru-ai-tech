@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.png" width="100%" alt="Thiruselvan_ Neon AI Data Science Future.png" />
+
 <div align="center">
   <img
     src="./assets/Thiruselvan_ Neon AI Data Science Future.png"
