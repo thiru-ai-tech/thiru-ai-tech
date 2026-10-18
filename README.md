@@ -2,7 +2,12 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:164E63,100:06B6D4&height=220&section=header&text=THIRUSELVAN&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Aspiring%20AI%20Engineer&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Thiruselvan profile banner"/>
+<img
+  src="https://github.com/thiru-ai-tech.png"
+  width="150"
+  alt="Thiruselvan's GitHub avatar"
+  style="border-radius: 50%;"
+/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Building+my+future+in+Artificial+Intelligence;Exploring+Machine+Learning+%26+Deep+Learning;Learning+Python+and+developing+projects;Japanese+Language+Learner+%7C+JLPT+N4+Achieved" alt="Animated introduction"/>
 
